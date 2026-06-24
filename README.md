@@ -46,7 +46,3 @@ This project was developed as part of an AI Engineer Internship technical assess
 ## Live Demo
 
 https://appcompiler-np5racjv2wyukkxznq2hcb.streamlit.app/
-
-## Demo Video
-
-[Loom Link]
