@@ -1,4 +1,6 @@
-google-generativeai==0.8.3
-streamlit==1.39.0
-pydantic==2.9.2
+streamlit==1.32.0
+google-generativeai==0.5.4
 python-dotenv==1.0.0
+pillow==10.2.0
+pydantic==2.6.4
+pydantic-core==2.16.3
